@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\bin\Debug\AfinTransformationEncrypt.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\bin\Debug\AfinTransformationEncrypt.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\bin\Debug\AfinTransformationEncrypt.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Debug\AfinTransformationEncrypt.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Debug\AfinTransformationEncrypt.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Debug\AfinTransformationEncrypt.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Debug\AfinTransformationEncrypt.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Debug\AfinTransformationEncrypt.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\bin\Debug\AfinTransformationEncrypt.exe.manifest
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\bin\Debug\AfinTransformationEncrypt.application
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Debug\AfinTransformationEncrypt.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Debug\AfinTransformationEncrypt.exe.manifest
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Debug\AfinTransformationEncrypt.application

@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\bin\Release\AfinTransformationEncrypt.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\bin\Release\AfinTransformationEncrypt.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\bin\Release\AfinTransformationEncrypt.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Release\AfinTransformationEncrypt.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Release\AfinTransformationEncrypt.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Release\AfinTransformationEncrypt.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Release\AfinTransformationEncrypt.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\AfinTransformationEncrypt\AfinTransformationEncrypt\obj\Release\AfinTransformationEncrypt.pdb
